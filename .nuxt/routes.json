@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___en",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Billing.vue"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Payment.vue"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Shipping.vue"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\ThankYou.vue"
+      }
+    ]
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___en",
+        "path": "Billing",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Billing.vue",
+        "chunkName": "pages/Checkout/Billing"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou"
+      }
+    ]
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Home.vue"
+  },
+  {
+    "name": "Help___en",
+    "path": "/Help",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Help.vue",
+    "chunkName": "pages/Help"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails"
+      }
+    ]
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product"
+  },
+  {
+    "name": "search___en",
+    "path": "/search",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\search.vue",
+    "chunkName": "pages/search"
+  },
+  {
+    "name": "SearchProduct___en",
+    "path": "/SearchProduct",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\SearchProduct.vue",
+    "chunkName": "pages/SearchProduct"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___de",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Billing.vue"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Payment.vue"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\Shipping.vue"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Checkout\\ThankYou.vue"
+      }
+    ]
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___de",
+        "path": "Billing",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Billing.vue",
+        "chunkName": "pages/Checkout/Billing"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou"
+      }
+    ]
+  },
+  {
+    "name": "Help___de",
+    "path": "/de/Help",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Help.vue",
+    "chunkName": "pages/Help"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails"
+      }
+    ]
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product"
+  },
+  {
+    "name": "search___de",
+    "path": "/de/search",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\search.vue",
+    "chunkName": "pages/search"
+  },
+  {
+    "name": "SearchProduct___de",
+    "path": "/de/SearchProduct",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\SearchProduct.vue",
+    "chunkName": "pages/SearchProduct"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\MyAccount.vue"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Product.vue"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Category.vue"
+  },
+  {
+    "name": "id___de",
+    "path": "/de/:id?",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\_id.vue",
+    "chunkName": "pages/_id"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\MyAccount.vue"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Product.vue"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Category.vue"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "C:\\changecx-production-dasa\\VSF_Anntayler_CT\\pages\\Home.vue"
+  },
+  {
+    "name": "id___en",
+    "path": "/:id?",
+    "component": "C:\\\\changecx-production-dasa\\\\VSF_Anntayler_CT\\\\pages\\\\_id.vue",
+    "chunkName": "pages/_id"
+  }
+]

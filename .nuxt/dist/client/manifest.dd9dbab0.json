@@ -1,0 +1,10 @@
+{
+  "name": "changecx-retail",
+  "short_name": "changecx-retail",
+  "description": "> My breathtaking Nuxt.js project",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "en"
+}

@@ -1,0 +1,16 @@
+{
+    "category": "women",
+    "customer": {
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@vuestorefront.io",
+        "address": {
+            "street": "13 Vue Storefront St.",
+            "apartment": "37",
+            "city": "Vue",
+            "zipCode": "31-337",
+            "country": "United States",
+            "phoneNumber": "123456789"
+        }
+    }
+}

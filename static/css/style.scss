@@ -1,0 +1,15 @@
+// @import "~/node_modules/@storefront-ui/shared/styles/helpers/colors";
+// :root {
+//   @include generate-color-variants(--c-black, #1d1f22);
+
+// @include generate-color-variants(--_c-orange-primary, #FC5A52);
+// @include generate-color-variants(--_c-orange-secondary, #f5938e);
+
+// @include assign-color-variants(--c-primary, --_c-orange-primary);
+// --c-primary-variant: var(--_c-orange-secondary); 
+// --c-on-primary: var(--_c-light-secondary);
+// }
+
+// html{
+//     background-color: blue !important;
+// }
